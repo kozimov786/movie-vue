@@ -40,7 +40,6 @@ body {
   border-radius: 50%;
 }
 
-
 .disabledButton {
   background-color: #d8d8d8;
   cursor: not-allowed;
@@ -179,4 +178,7 @@ ul {
   .review-form {
     width: 90%;
   }
+}
+img {
+  object-fit: cover;
 }
